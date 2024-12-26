@@ -1,0 +1,6 @@
+@DevOps_Testing_Task_HostAddress = http://localhost:5293
+
+GET {{DevOps_Testing_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
